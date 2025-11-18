@@ -17,8 +17,7 @@
 | Nº | Actividad | Ver |
 |:--:|:----------|:----|
 | 1 | Ejercicio — GUI en Java Swing 🎨 | [📄 Abrir PDF](./U3EjercicioGuiadoSwing.docx) |
-| 2 | Conceptos de arboles🎨 | [📄 Abrir PDF](./Conceptosdearboles.pdf) |
-
+| 1 | Conceptos básicos de árboles | [📄 Abrir PDF](./Conceptosdearboles.pdf) |
 
 
 <p align="center">
