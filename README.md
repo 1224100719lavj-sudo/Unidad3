@@ -25,7 +25,7 @@
 # 📘 EJERCICIOS Practicos (Unidad 3)
 | Nº | Actividad | Ver |
 |:--:|:----------|:----|
-| 1 | | [📄 Abrir PDF](./Identificacion de elementos de un arbol.pdf) |
+| 1 | IdentificacionDeElementosDeUnArbol| [📄 Abrir PDF](./IdentificacionDeElementosDeUnArbol.pdf) |
 ---
 <p align="center">
   <img src="https://i.pinimg.com/originals/8b/ba/6a/8bba6ae02f9725b4889252f6ecf8a1ab.jpg" width="400" alt="GodGwawa Cute">
