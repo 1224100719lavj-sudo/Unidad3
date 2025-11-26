@@ -17,7 +17,9 @@
 | Nº | Actividad | Ver |
 |:--:|:----------|:----|
 | 1 | Ejercicio — GUI en Java Swing 🎨 | [📄 Abrir PDF](./U3EjercicioGuiadoSwing.docx) |
-| 1 | Conceptos básicos de árboles | [📄 Abrir PDF](./Conceptosdearboles..pdf) |
+| 2 | Conceptos básicos de árboles | [📄 Abrir PDF](./Conceptosdearboles..pdf) |
+| 3 | Implementación de un Árbol Binario 🌳 | [📄 PruebasArbolBinario.pdf](./PruebasArbolBinario.pdf) — [ArbolBinario.java](./ArbolBinario.java) — [NodoArbol.java](./NodoArbol.java) — [PruebaArbol.java](./PruebaArbol.java) |
+
 
 ---
 ---
