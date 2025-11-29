@@ -20,6 +20,8 @@
 | 2 | Conceptos básicos de árboles | [📄 Abrir PDF](./Conceptosdearboles..pdf) |
 | 3 | Implementación de un Árbol Binario 🌳 | [📄 PruebasArbolBinario.pdf](./PruebasArbolBinario.pdf) — [ArbolBinario.java](./ArbolBinario.java) — [NodoArbol.java](./NodoArbol.java) — [PruebaArbol.java](./PruebaArbol.java) |
 | 4 | Nearpod Arboles | [📄 Abrir PDF](./Arboles.pdf) |
+| 5 | Nearpod Conjuntos | [📄 Abrir PDF](./Conjunto.pdf) |
+
 
 
 ---
