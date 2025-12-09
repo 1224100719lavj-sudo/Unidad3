@@ -21,6 +21,7 @@
 | 3 | Implementación de un Árbol Binario 🌳 | [📄 PruebasArbolBinario.pdf](./PruebasArbolBinario.pdf) — [ArbolBinario.java](./ArbolBinario.java) — [NodoArbol.java](./NodoArbol.java) — [PruebaArbol.java](./PruebaArbol.java) |
 | 4 | Nearpod diccionario  | [📄 Abrir PDF](./Diccionarios.pdf) |
 | 5 | Nearpod Conjuntos | [📄 Abrir PDF](./Conjunto.pdf) |
+| 6 | Mapa Mental | [🖼️ Abrir Imagen](./mapamental.jpeg) |
 
 
 
