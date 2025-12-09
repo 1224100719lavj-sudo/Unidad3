@@ -31,9 +31,9 @@
 | Nº | Actividad | Ver |
 |:--:|:----------|:----|
 | 1 | IdentificacionDeElementosDeUnArbol| [📄 Abrir PDF](./IdentificacionDeElementosDeUnArbol.pdf) |
-| 2 | Ejercicio 1 Swing | [ArbolDOM.java](./ArbolDOM.java) — [NodoDOM.java](./NodoDOM.java) — [VentanaPrincipal.java](./VentanaPrincipal.java) — [🎥 Video (swing1)](#) |
-| 3 | Swing 2 | [Nodo.java](./Nodo.java) — [ArbolBinarioBusqueda.java](./ArbolBinarioBusqueda.java) — [PanelArbol.java](./PanelArbol.java) — [VentanaPrincipal2.java](./VentanaPrincipal2.java) — [🎥 Video (swing2)](#) |
-| 4 | Swing 3 | [Mascota.java](./Mascota.java) — [GestorMascotas.java](./GestorMascotas.java) — [VentanaMascotas.java](./VentanaMascotas.java) — [🎥 Video (swing3)](#) |
+| 2 | Ejercicio 1 Swing | [ArbolDOM.java](./ArbolDOM.java) — [NodoDOM.java](./NodoDOM.java) — [VentanaPrincipal.java](./VentanaPrincipal.java) — [🎥 Video (swing1)](./swing1.mp4) |
+| 3 | Swing 2 | [Nodo.java](./Nodo.java) — [ArbolBinarioBusqueda.java](./ArbolBinarioBusqueda.java) — [PanelArbol.java](./PanelArbol.java) — [VentanaPrincipal2.java](./VentanaPrincipal2.java) — [🎥 Video (swing2)](./swing2.mp4) |
+| 4 | Swing 3 | [Mascota.java](./Mascota.java) — [GestorMascotas.java](./GestorMascotas.java) — [VentanaMascotas.java](./VentanaMascotas.java) — [🎥 Video (swing3)](./swing3.mp4) |
 
 ---
 <p align="center">
